@@ -50,3 +50,6 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+## DEMO video in GCP
+https://drive.google.com/file/d/1kdSdvgtsFPxfhydlG4eVuBA9jTNf9rLU/view?usp=sharing
