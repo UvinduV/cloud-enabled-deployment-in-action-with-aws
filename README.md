@@ -53,3 +53,7 @@ This repository contains four projects:
 
 ## DEMO video in GCP
 https://drive.google.com/file/d/1kdSdvgtsFPxfhydlG4eVuBA9jTNf9rLU/view?usp=sharing
+
+### Name : Uvindu Sanketh
+### Student Registration Number : 2301671004
+### Email : uvindusanketh470@gmail.com
